@@ -160,6 +160,7 @@ height: 800px;
 background-color: #ffffff;
 transition: all 0.3s ease-in-out;
 margin-bottom: 550px;
+overflow: hidden;
 }
 .mobilenav {
   padding-top: 15px;
