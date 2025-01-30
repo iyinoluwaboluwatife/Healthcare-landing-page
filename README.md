@@ -10,5 +10,5 @@ Project Structure:<br>
 index.html - the main HTML file<br>
 lora.css - the CSS style sheet<br>
 main.js - the javascript file for the toggle menu<br>
-signlog.js - the javascript file for signupand login page6
+signlog.js - the javascript file for signupand login page6<br>
 If you have any suggestions or improvement please send a pull request
